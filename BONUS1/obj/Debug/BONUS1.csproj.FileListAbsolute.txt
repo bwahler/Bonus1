@@ -1,0 +1,7 @@
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.exe.config
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.exe
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\bin\Debug\BONUS1.pdb
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.csprojAssemblyReference.cache
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.csproj.CoreCompileInputs.cache
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.exe
+C:\Users\bmwah\source\repos\BONUS1\BONUS1\obj\Debug\BONUS1.pdb
